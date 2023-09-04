@@ -90,8 +90,6 @@ body {
 }
 
 .cover_title {
-    display: flex;
-    justify-content: space-between;
     font-size: 100px;
     font-weight: 700;
     line-height: 115%;
@@ -102,23 +100,24 @@ body {
 .alligned-text {
     display: block;
     padding-left: 50px;
-    
+    padding-top: 165px;
 }
 
 .letter-spacing-extendent {
-    display: inline;
     padding-left: 30px;
 }
 
 .alligned-text_center {
-    display: inline;
     text-align: center;
+    padding-left: 0px;
+    padding-top: 13px;
+    padding-right: 30px;
 }
 
 .alligned-text_right {
-    display: inline;
     text-align: end;
-    
+    padding-right: 20px;
+    padding-top: 5px;
 }
 
 .cover_description {
