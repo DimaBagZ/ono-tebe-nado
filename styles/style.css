@@ -30,7 +30,6 @@
 
 .header__links-list_item_no-bullit {
     list-style: none;
-    
 }
 
 .header__link {
@@ -90,7 +89,6 @@
     height: 100%;
     width: 100%;
     background-color: rgb(0 0 0/0.6);
-
 }
 
 .cover__title {
@@ -283,7 +281,7 @@
     justify-items: center;
     align-items: start;
     justify-content: space-between;
-    padding: 0px 50px 0px ;
+    padding: 0px 50px 90px ;
 }
 
 .footer-address {
