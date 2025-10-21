@@ -41,17 +41,20 @@ npx serve .
 
 ### Главная страница
 
-![Главная страница](screenshots/homepage.png)
+<img width="1895" height="916" alt="image" src="https://github.com/user-attachments/assets/5759e716-c9a1-4cbd-a344-deb4408af9db" />
+
 _Главная страница с художественным фоном и призывом к действию_
 
 ### Раздел "Лоты"
 
-![Раздел лотов](screenshots/lots.png)
+<img width="1896" height="748" alt="image" src="https://github.com/user-attachments/assets/0d620e27-81f2-4476-9b98-bd50943642a5" />
+
 _Карточки аукционных лотов: фильм, книга и картина_
 
 ### Раздел "Об аукционе"
 
-![О проекте](screenshots/about.png)
+<img width="1897" height="862" alt="image" src="https://github.com/user-attachments/assets/f5682ae6-257c-4557-9d15-c5b032b8ccb9" />
+
 _Информация о концепции аукциона и контактные данные_
 
 ## Особенности
